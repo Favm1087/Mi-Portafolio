@@ -1,5 +1,5 @@
 ## Descripcion
-Este es mi portafolio creado en R-studio y phyton
+Este es mi portafolio creado en R-studio, phyton y SQL
 ## Autor 
 **Fernando Varilla**
 
